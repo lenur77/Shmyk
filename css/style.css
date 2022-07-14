@@ -108,7 +108,7 @@ html {
 
 .text {
   padding: .5em;
-  font-size: clamp(1rem, 0.2857rem + 2.2857vw, 2rem);
+ font-size: clamp(0.8rem, -0.0571rem + 2.7429vw, 2rem);
   margin-bottom: 1em;
   text-shadow: 0 1px 0 white;
   text-align: center;
