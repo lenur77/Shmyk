@@ -41,7 +41,7 @@ html {
   grid-template-columns: repeat(3, 1fr);
   list-style: none;
   padding-top: clamp(2rem, -0.1429rem + 6.8571vw, 5rem);
-  gap: 2rem;
+  gap: clamp(1rem, 0.2857rem + 2.2857vw, 2rem);
   place-items: center;
   overflow: hidden;
 
